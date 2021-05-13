@@ -47,7 +47,7 @@ function placeXOrO(squareNumber) {
 	}
 	
 	//This function results in a random square being selected.
-	function computerTurn() {
+	function computersTurn() {
 		//This boolean is needed for our while loop.
 		let success = false;
 		//This variable stores a random number 0-8
